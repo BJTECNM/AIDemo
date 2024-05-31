@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AIDemo</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Proporciona una receta para los productos horneados en la imagen.</string>
+    <string name="image1_description">Pastelito</string>
+    <string name="image2_description">Galletas</string>
+    <string name="image3_description">Pastel</string>
+    <string name="results_placeholder">(Resultados aparecerán aquí)</string>
+</resources>
